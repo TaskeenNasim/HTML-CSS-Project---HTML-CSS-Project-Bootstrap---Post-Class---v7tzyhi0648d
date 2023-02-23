@@ -9,7 +9,7 @@ body {
 
 .phone {
     position: relative;
-    border: 5px;
+    border: 5px solid grey;
     border-radius: 15px;
     height: 600px;
     width: 340px;
